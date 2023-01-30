@@ -2,6 +2,9 @@ Welcome to Git Master.
 File Updated by Developer1:Branch1
 
 
+<<<<<<< HEAD
 Welcome to master... Branch1-Sub
+=======
 Welcome to master...MasterBranch
-
+Welcome to master... Branch1
+>>>>>>> f27be5a2d69e97959a7bc57dcb0d214bd4b597de
